@@ -2,6 +2,11 @@ body {
   background-color: greenyellow;
 }
 
+.h1 {
+  font-family: "Tiro Devanagari Sanskrit", serif;
+  font-size: 64px;
+}
+
 .img1 {
   width: 100px;
   height: 100px;
